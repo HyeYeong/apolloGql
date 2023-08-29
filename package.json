@@ -1,0 +1,25 @@
+{
+  "name": "apollogql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyeYeong/apolloGql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HyeYeong/apolloGql/issues"
+  },
+  "homepage": "https://github.com/HyeYeong/apolloGql#readme",
+  "dependencies": {
+    "apollo-server": "^3.12.0",
+    "convert-csv-to-json": "^2.0.0",
+    "graphql": "^16.8.0"
+  }
+}
