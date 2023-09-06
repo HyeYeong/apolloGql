@@ -7,6 +7,10 @@ const typeDefs = gql `
         equipments: [Equipment]
         equipmentAdvs: [equipmentAdv]
         supplies: [Supply]
+        givens: [Given]
+        softwares: [Software]
+        software: Software
+        people: [People]
     }
 `
 
